@@ -1,6 +1,3 @@
-#запрет всех файлов в любых расширениях
-*.*
-#Но разрешить файлы в директориях src
-!/*/src*.*
-#Разрешить все текстовые файлы
-!*.txt
+/DZ_from_books/Java_Tom1/Java_p052project/out
+/DZ_from_books/Java_Tom1/Java_p052project/.idea
+/DZ_from_books/Java_Tom1/Java_p052project/Java_p052project.iml
