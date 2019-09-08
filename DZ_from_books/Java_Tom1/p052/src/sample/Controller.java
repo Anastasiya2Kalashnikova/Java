@@ -6,4 +6,3 @@ public class Controller {
         System.out.println("We will not use 'Hello, World! Wow");
     }
 }
-
